@@ -1,23 +1,32 @@
 <div align="center">
 
 <img 
-  src="./headergit.png" 
-  width="100%" 
+  src="./headergit.png"
+  width="100%"
   alt="Maidi Ridani — Software, AI, Embedded Systems, Robotics and Networking"
 />
 
-<br>
+<br><br>
 
 <a href="https://www.linkedin.com/in/maidiridani/">
-  <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=flat-square&logo=linkedin&logoColor=white" />
+  <img 
+    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
 </a>
-
+&nbsp;
 <a href="https://github.com/MaidiRidani">
-  <img src="https://img.shields.io/badge/GitHub-0F172A?style=flat-square&logo=github&logoColor=white" />
+  <img 
+    src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
 </a>
-
+&nbsp;
 <a href="https://personal-portofolio-mu-seven.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-0F172A?style=flat-square&logo=vercel&logoColor=white" />
+  <img 
+    src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"
+    alt="Portfolio"
+  />
 </a>
 
 </div>
@@ -26,23 +35,13 @@
 
 ## About
 
-I'm **Maidi Ridani**, an engineering-focused developer interested in building practical systems that connect software with the physical world.
+I'm **Maidi Ridani**, an engineering-focused developer interested in building practical systems where **software meets the physical world**.
 
-My current interests sit around:
+My current direction sits between **Python, AI, embedded systems, robotics, IoT, and networking**. I enjoy working from the problem itself and figuring out how different pieces of a system should communicate, rather than starting with a specific technology.
 
-- **Python & software development**
-- **Computer Vision & Machine Learning**
-- **IoT & embedded systems**
-- **Robotics & automation**
-- **Computer networking & infrastructure**
+Most of my learning happens through projects: build something, test it, break it, figure out why, then improve it.
 
-I enjoy working from the problem itself rather than starting from a specific technology. Sometimes that means writing Python for a computer vision pipeline, training a model, connecting an ESP32 to a backend, building a network lab, or figuring out how hardware and software should communicate.
-
-I don't consider every technology in my repositories a mastered skill. Some are tools I've used in projects, some are areas I'm actively learning, and some are experiments.
-
-The goal is simple:
-
-> **Build more real systems, understand why they work, and gradually move from prototypes to reliable implementations.**
+> **The goal isn't to collect technologies. It's to become capable of turning a real problem into something that actually works.**
 
 ---
 
@@ -52,141 +51,168 @@ I'm currently putting more attention into **Python, Computer Vision, Machine Lea
 
 <div align="center">
 
-<img 
-  src="./Current-Direction.png" 
-  width="100%" 
-  alt="Current technical direction from software and Python to connected systems"
+<img
+  src="./Roadmapcrop.png"
+  width="100%"
+  alt="Current direction from Python and software toward AI, embedded systems and connected systems"
 />
 
 </div>
 
-I am particularly interested in systems where **data is captured from the physical world, processed by software, and turned into an action or useful decision.**
+The area that interests me most is the connection between **data, software, and physical systems** — where something is sensed from the real world, processed by software, and eventually turned into an action or useful decision.
 
 ---
 
 ## What I'm Building
 
-### Computer Vision
+<table>
+<tr>
 
-Currently exploring computer vision with **Python, OpenCV and YOLO**, with an emphasis on understanding the complete workflow rather than only running a pretrained model.
+<td width="33%" valign="top">
 
-Areas I'm working through:
+### 🧠 Python & AI
 
-- Dataset preparation
-- Image annotation and labeling strategy
-- Object detection
-- Model training and evaluation
-- Confidence thresholds
-- Image preprocessing
-- OpenCV pipelines
-- Real-world visual ambiguity
-- Deployment considerations
+Currently deepening Python while using it for:
 
-One of my current directions is applying computer vision to **industrial material / ore inspection and sorting**, where visual characteristics can matter more than simply detecting the presence of an object.
+- Computer Vision
+- Machine Learning
+- OpenCV
+- YOLO
+- Data processing
 
----
+The focus is not only getting a model to run, but understanding the workflow around **data → training → evaluation → deployment**.
 
-### Machine Learning
+</td>
 
-I've worked with machine learning in projects involving **network and vehicle security**, including intrusion detection.
+<td width="33%" valign="top">
 
-My experience includes working with:
+### ⚙️ Embedded & Robotics
 
-- Python
-- TensorFlow
-- Keras
-- NumPy
-- Jupyter Notebook
-- Dataset preprocessing
-- Model training
-- Validation
-- Performance evaluation
-
-I'm currently focusing on strengthening the fundamentals instead of treating ML as a black box.
-
----
-
-### IoT & Embedded Systems
-
-I've built and experimented with systems involving:
+Building and experimenting with:
 
 - ESP32
 - Arduino
-- Sensors and actuators
-- WebSocket communication
-- Microcontrollers
-- Hardware-to-server communication
-- Automation
-- IoT dashboards
-- Network-connected devices
-
-One example is **WifiCoin**, an ESP32-based coin-operated WiFi system designed around the idea of connecting physical transactions with network access and backend logic.
-
----
-
-### Robotics
-
-Robotics is one of the areas I'm actively developing toward.
-
-My current exploration includes:
-
-- Mobile robots
-- AGV concepts
-- Ultrasonic sensing
-- Line tracking
-- Servo-based scanning
-- Motor control
-- Embedded control logic
 - Raspberry Pi
-- Arduino
-- Sensor integration
+- Sensors & actuators
+- Motor control
+- AGV concepts
+- Automation
 
-The long-term direction is toward systems combining **embedded control, sensing, computer vision and AI**.
+The long-term direction is combining **sensing, control, vision, and AI** into physical systems.
 
----
+</td>
 
-### Networking & Infrastructure
+<td width="33%" valign="top">
 
-My background also includes practical networking and infrastructure work.
+### 🌐 Networks & Systems
 
-I've worked with and experimented around:
+My networking background gives me another part of the stack:
 
 - MikroTik
 - Cisco
+- Linux
 - PNETLab
-- Ubuntu Server
-- VLAN
-- Routing
-- VPN
-- Firewall
-- Network monitoring
 - Docker
-- HAProxy
-- InfluxDB
-- Telegraf
-- Grafana
-- JMeter
+- Monitoring
+- Server infrastructure
 
-I like networking because it forces software, infrastructure and real-world constraints to meet in one system.
+I like the point where **software, hardware, and network constraints** have to work together.
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## Selected Projects
+## Areas I'm Exploring
 
-| Project | Area | What it explores |
-|---|---|---|
-| **WifiCoin** | IoT / Networking | ESP32-based coin-operated WiFi system with real-time communication and planned MikroTik integration |
-| **ComputerVision_Yolo_OpenCV** | Computer Vision | YOLO, OpenCV, dataset preparation, experiments and hands-on computer vision |
-| **IDS_IN-Vehicle_Machine-Learning** | Machine Learning / Security | ML-based intrusion detection for in-vehicle networks and IoV |
-| **enterprise-network-lab** | Networking | Enterprise network architecture using MikroTik, Cisco, Ubuntu Server and PNETLab |
-| **personal-portofolio** | Web Development | Personal portfolio built with Next.js |
-| **Extra-Vehicle-IDS** | ML / Security | Exploration of intrusion detection in vehicle-related systems |
+<table>
+<tr>
 
-More experiments and unfinished projects live here because I believe unfinished work can still be useful when it documents what was learned.
+<td width="50%" valign="top">
+
+### Computer Vision
+
+I'm exploring computer vision beyond simply running pretrained models.
+
+Current areas include:
+
+`Dataset Design` · `Annotation` · `YOLO` · `OpenCV`
+
+`Detection` · `Evaluation` · `Preprocessing`
+
+One practical direction is **industrial material / ore inspection and sorting**, where visual characteristics can be more important than simply detecting an object.
+
+</td>
+
+<td width="50%" valign="top">
+
+### Machine Learning
+
+I've worked with ML in projects involving **network and vehicle security**, including intrusion detection.
+
+Current experience includes:
+
+`Python` · `TensorFlow` · `Keras` · `NumPy`
+
+`Dataset Processing` · `Training` · `Validation`
+
+I'm focusing on understanding the fundamentals instead of treating ML as a black box.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### IoT & Connected Systems
+
+I've experimented with systems involving:
+
+`ESP32` · `Arduino` · `WebSocket`
+
+`Sensors` · `Actuators` · `Automation`
+
+`Hardware ↔ Server Communication`
+
+One example is **WifiCoin**, an ESP32-based system exploring the connection between physical transactions and network access.
+
+</td>
+
+<td width="50%" valign="top">
+
+### Robotics
+
+Robotics is an area I'm actively moving toward.
+
+Current exploration:
+
+`Mobile Robots` · `AGV` · `Ultrasonic`
+
+`Line Tracking` · `Servo Control` · `Motor Control`
+
+`Raspberry Pi` · `Arduino`
+
+The goal is eventually to combine **embedded control, sensing, computer vision, and AI**.
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 ## Tech Stack
+
+I don't consider every technology here a mastered skill. Some are part of my current work, while others are tools I've used and continue to improve.
+
+<table>
+<tr>
+
+<td width="33%" valign="top">
 
 ### Primary Focus
 
@@ -194,47 +220,94 @@ More experiments and unfinished projects live here because I believe unfinished 
 <img src="https://skillicons.dev/icons?i=python,opencv,tensorflow,pytorch&theme=dark" />
 </p>
 
+**Python** is currently the language I'm putting the most effort into strengthening.
+
+</td>
+
+<td width="33%" valign="top">
+
 ### Embedded & IoT
 
 <p>
 <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,cpp&theme=dark" />
 </p>
 
-### Web & Backend
+Microcontrollers, sensors, actuators, communication, and physical systems.
+
+</td>
+
+<td width="33%" valign="top">
+
+### Web
 
 <p>
-<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,tailwind,laravel,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,tailwind,mysql&theme=dark" />
 </p>
 
-### Infrastructure & Networking
+Used mainly to build interfaces, APIs, dashboards, and supporting systems.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="33%" valign="top">
+
+### Infrastructure
 
 <p>
 <img src="https://skillicons.dev/icons?i=linux,docker,aws,nginx&theme=dark" />
 </p>
 
-### Tools
+Linux environments, containers, servers, networking, and infrastructure experiments.
+
+</td>
+
+<td width="33%" valign="top">
+
+### Networking
+
+<p>
+<img src="https://skillicons.dev/icons?i=cisco&theme=dark" />
+</p>
+
+MikroTik, Cisco, PNETLab, routing, VLAN, VPN, firewall, monitoring, and network testing.
+
+</td>
+
+<td width="33%" valign="top">
+
+### Engineering Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" />
 </p>
 
-> Some technologies above represent tools I've used in projects rather than technologies I claim to master. I'm still actively improving my depth across the stack.
+Also working with tools around electronics, PCB design, CAD, prototyping, and documentation.
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 ## Engineering Approach
 
-I tend to learn through a cycle like this:
-
 <div align="center">
 
-<img 
-  src="./Approach-Cyclecrop.png" 
-  width="100%" 
+<img
+  src="./Approach-Cyclecrop.png"
+  width="100%"
   alt="Engineering approach from problem to research, prototype, testing, documentation and iteration"
 />
 
 </div>
+
+I tend to learn through a simple loop:
+
+**Problem → Research → Prototype → Break It → Understand → Improve → Test → Document → Repeat**
 
 A working prototype is useful.
 
@@ -246,35 +319,59 @@ A prototype that can explain **why it works, where it fails, and what should be 
 
 <div align="center">
 
-<img 
-  src="./Currently-Learningcrop.png" 
-  width="100%" 
+<img
+  src="./Currently-Learningcrop.png"
+  width="100%"
   alt="Currently learning Python, Computer Vision, Machine Learning, IoT, Embedded Systems, Robotics and Networking"
 />
 
 </div>
 
+These indicators represent **where I'm currently putting learning effort**, not objective skill percentages.
+
 ---
 
 ## Beyond the Code
 
-I'm interested not only in writing software, but also in **what can be built around it**.
+<table>
+<tr>
 
-That includes exploring:
+<td width="33%" valign="top">
 
-- Technology products
-- Automation solutions
-- Robotics education
-- IoT-based services
-- Hardware/software products
-- Practical applications of AI
-- Technology entrepreneurship
+### ⚙️ Build
 
-I'm particularly interested in the gap between:
+I want to move from isolated technical experiments toward systems that are actually usable.
 
-**technical prototype → usable product → real-world value**
+**Prototype → Product**
 
-Because building something technically interesting is only half of the problem.
+</td>
+
+<td width="33%" valign="top">
+
+### 🤖 Apply
+
+I'm interested in applying technology to physical and operational problems.
+
+**Sense → Process → Decide → Act**
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🚀 Create Value
+
+I'm also interested in the business side of technology.
+
+**Problem → Solution → Customer → Value**
+
+</td>
+
+</tr>
+</table>
+
+The interesting part isn't only making technology work.
+
+It's understanding **whether it solves a problem worth solving.**
 
 ---
 
@@ -282,13 +379,13 @@ Because building something technically interesting is only half of the problem.
 
 <div align="center">
 
-<img 
+<img
   src="https://github-readme-stats.vercel.app/api?username=MaidiRidani&show_icons=true&hide_border=true&bg_color=00000000&title_color=0F172A&text_color=475569&icon_color=334155&rank_icon=github&include_all_commits=true"
   height="170"
   alt="GitHub statistics"
 />
 
-<img 
+<img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaidiRidani&layout=compact&hide_border=true&bg_color=00000000&title_color=0F172A&text_color=475569&langs_count=8"
   height="170"
   alt="Top languages"
@@ -296,31 +393,23 @@ Because building something technically interesting is only half of the problem.
 
 </div>
 
-<br>
-
-<div align="center">
-
-<img 
-  src="https://github-readme-streak-stats.herokuapp.com/?user=MaidiRidani&hide_border=true&background=FFFFFF00&stroke=CBD5E1&ring=334155&fire=475569&currStreakLabel=0F172A&sideLabels=475569&dates=64748B"
-  width="70%"
-  alt="GitHub streak"
-/>
-
-</div>
-
 ---
 
-## A Few Things I'm Working Toward
+## What I'm Working Toward
 
 <div align="center">
 
-<img 
-  src="./Roadmapcrop.png" 
-  width="100%" 
-  alt="Roadmap from strengthening Python to computer vision, robotics, connected systems and real products"
+<img
+  src="./Roadmapcrop.png"
+  width="100%"
+  alt="Roadmap toward connected systems, real products and automation"
 />
 
 </div>
+
+My direction is gradually moving from **learning individual technologies** toward being able to design and build complete systems.
+
+**Software → AI → Embedded → Robotics → Connected Systems → Real Products**
 
 ---
 
