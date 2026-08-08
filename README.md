@@ -375,20 +375,14 @@ It's understanding **whether it solves a problem worth solving.**
 
 ---
 
-## GitHub Activity
+## Activity
 
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=MaidiRidani&show_icons=true&hide_border=true&bg_color=00000000&title_color=0F172A&text_color=475569&icon_color=334155&rank_icon=github&include_all_commits=true"
-  height="170"
-  alt="GitHub statistics"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaidiRidani&layout=compact&hide_border=true&bg_color=00000000&title_color=0F172A&text_color=475569&langs_count=8"
-  height="170"
-  alt="Top languages"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=MaidiRidani&bg_color=00000000&color=64748B&line=0EA5E9&point=38BDF8&area=true&hide_border=true"
+  width="95%"
+  alt="GitHub contribution activity"
 />
 
 </div>
