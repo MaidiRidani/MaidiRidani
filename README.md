@@ -1,29 +1,25 @@
 <div align="center">
 
-<img 
-  src="./headergit.png"
+<img
+  src="./headergit2.png"
   width="100%"
   alt="Maidi Ridani — Software, AI, Embedded Systems, Robotics and Networking"
 />
 
-<br><br>
-
 <a href="https://www.linkedin.com/in/maidiridani/">
-  <img 
+  <img
     src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
     alt="LinkedIn"
   />
 </a>
-&nbsp;
 <a href="https://github.com/MaidiRidani">
-  <img 
+  <img
     src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
     alt="GitHub"
   />
 </a>
-&nbsp;
 <a href="https://personal-portofolio-mu-seven.vercel.app/">
-  <img 
+  <img
     src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"
     alt="Portfolio"
   />
