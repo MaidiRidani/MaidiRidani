@@ -6,7 +6,7 @@
   alt="Maidi Ridani — Software, AI, Embedded Systems, Robotics and Networking"
 />
 
-<br><br>
+
 
 <!-- Primary Technologies -->
 
