@@ -1,33 +1,45 @@
 <div align="center">
 
-<img
-  src="./headergit2.png"
+<img 
+  src="./headergit.png"
   width="100%"
   alt="Maidi Ridani — Software, AI, Embedded Systems, Robotics and Networking"
 />
 
+<br><br>
+
+<!-- Primary Technologies -->
+
+<img src="https://badgen.net/badge/Python/Primary%20Focus/3776AB?icon=python" alt="Python">
+<img src="https://badgen.net/badge/YOLO/Computer%20Vision/111F68" alt="YOLO">
+<img src="https://badgen.net/badge/Arduino/Embedded/00979D?icon=arduino" alt="Arduino">
+<img src="https://badgen.net/badge/Raspberry%20Pi/Robotics/C51A4A?icon=raspberrypi" alt="Raspberry Pi">
+
+<br>
+
+<img src="https://badgen.net/badge/Linux/Infrastructure/FCC624?icon=linux" alt="Linux">
+<img src="https://badgen.net/badge/Docker/Containers/2496ED?icon=docker" alt="Docker">
+<img src="https://badgen.net/badge/MikroTik/Networking/293239?icon=mikrotik" alt="MikroTik">
+<img src="https://badgen.net/badge/Cisco/Networking/049FD9?icon=cisco" alt="Cisco">
+<img src="https://badgen.net/badge/KiCad/PCB%20Design/314CB0?icon=kicad" alt="KiCad">
+
+<br>
+
+<!-- Profile -->
+
+<img src="https://komarev.com/ghpvc/?username=MaidiRidani&label=PROFILE%20VIEWS&style=flat-square&color=grey" alt="Profile views">
+
+<br>
+
 <a href="https://www.linkedin.com/in/maidiridani/">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+  <img 
+    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
     alt="LinkedIn"
-  />
-</a>
-<a href="https://github.com/MaidiRidani">
-  <img
-    src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-    alt="GitHub"
-  />
-</a>
-<a href="https://personal-portofolio-mu-seven.vercel.app/">
-  <img
-    src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"
-    alt="Portfolio"
-  />
+  >
 </a>
 
 </div>
 
----
 
 ## About
 
@@ -237,7 +249,7 @@ Microcontrollers, sensors, actuators, communication, and physical systems.
 ### Web
 
 <p>
-<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,tailwind,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript&theme=dark" />
 </p>
 
 Used mainly to build interfaces, APIs, dashboards, and supporting systems.
@@ -264,8 +276,11 @@ Linux environments, containers, servers, networking, and infrastructure experime
 
 ### Networking
 
-<p>
-<img src="https://skillicons.dev/icons?i=cisco&theme=dark" />
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mikrotik-light.svg" width="55" alt="MikroTik">
+  <img src="https://www.pnetlab.com/views/pages/components/logo/logo.png" width="55" alt="PNETLab">
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/juniper-networks.png" width="55" alt="Juniper Networks">
+  <img src="https://www.pngall.com/wp-content/uploads/13/Cisco-Logo-PNG-Photos.png" width="55" alt="Cisco">
 </p>
 
 MikroTik, Cisco, PNETLab, routing, VLAN, VPN, firewall, monitoring, and network testing.
@@ -273,6 +288,7 @@ MikroTik, Cisco, PNETLab, routing, VLAN, VPN, firewall, monitoring, and network 
 </td>
 
 <td width="33%" valign="top">
+
 
 ### Engineering Tools
 
